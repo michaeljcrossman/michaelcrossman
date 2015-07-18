@@ -13,6 +13,8 @@
 </head>
 
 <body>
-  <h1>Hello, World!</h1>
+  
+  <?php  header( 'Location: http://thecalicoprint.bandcamp.com/album/ever-since-the-lake-caught-fire-2005-2010' ) ;  ?>
+
 </body>
 </html>
