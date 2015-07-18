@@ -14,7 +14,9 @@
 
 <body>
   
-  <?php  header( 'Location: http://thecalicoprint.bandcamp.com/album/ever-since-the-lake-caught-fire-2005-2010' ) ;  ?>
+  <?php //  header( 'Location: http://thecalicoprint.bandcamp.com/album/ever-since-the-lake-caught-fire-2005-2010' ) ;  ?>
+
+  <h1>Hello</h1>
 
 </body>
 </html>
